@@ -2,6 +2,11 @@
 
 A lightweight API testing tool similar to Postman. Create, send, and manage API requests, save requests & collections, import from cURL/Postman collections, and test APIs with ease.
 
+## Video
+[![Watch ](https://drive.google.com/file/d/1obK4CNKyPd_5VUx5T62fYDVP-J-EYsP8/view?usp=sharing)
+
+
+
 ---
 
 ## Table of Contents
